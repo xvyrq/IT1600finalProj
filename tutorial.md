@@ -1,7 +1,7 @@
 # How to host your first site for free with Google Firebase
 
-**A step by step tutorial**
-
+**A step by step tutorial** <br>
+**Written by Luke Manary**
 
 1. To begin, we're going to go ahead and fire up our IDE of choice, in my case VS Code, and open a new folder. <br><br>
 
