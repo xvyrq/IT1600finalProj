@@ -13,7 +13,7 @@ This will prompt us to sign in with the Google account that we created the proje
 `firebase init` <br>
 After running this command we will want to go down and select the hosting option to configure foles for Firebase Hosting, as seen below <br><br>
 ![Alt text](image.png) <br><br>
-We will then be prompted to either use an existing project or create a new one, and we're going to go ahead and create one.
+We will then be prompted to either use an existing project or create a new one, and we're going to go ahead and create one. <br><br>
 ![Alt text](newProject.png) <br><br>
 Give your new project an ID and name, and specify the public directory (can just leave as public by pressing enter) we will just have a few more questions to answer. <br><br>
 ![init](init.png) <br><br>
